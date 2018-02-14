@@ -2,4 +2,14 @@
 
 Data Analysis
 
-Key words:data marts, data warehousing, MySQL, Talend, Microsoft Power BI
+Key words:
+  - Data marts;
+  - Data warehousing;
+  - MySQL;
+  - Talend;
+  - Microsoft Power BI.
+
+Collaborators:
+
+  * [Luís Fernandes](https://github.com/SkyBad20);
+  * Maria Ana Brito.
