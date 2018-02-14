@@ -1,6 +1,4 @@
-# AD
-
-Data Analysis
+# AD - Data Analysis
 
 Key words:
   - Data marts;
